@@ -45,7 +45,7 @@ TG支付机器人是一个基于 PHP、MySQL 和 Telegram Bot API 的支付机�
    - 访问 `admin/easypay_config.php`，填写易支付接口参数（包括商户ID、密钥、网关地址、通知地址等），保存配置。
 
 5. **启动 TG 机器人**  
-   - 在aapanel应用商店安装`supervisord`Run User为www 执行命令为 `/www/server/php/74/bin/php /www/wwwroot/xxxxx/bot.php`。
+   - 在aapanel应用商店安装supervisord Run User为www 执行命令为 `/www/server/php/74/bin/php /www/wwwroot/xxxxx/bot.php`。
 
 
 
